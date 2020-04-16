@@ -1,0 +1,5 @@
+{
+    "unlock_time_seconds": 30.0,
+    "unlock_tool_damage": 100,
+    "unlock_success_rate_percent": 100
+}

@@ -1,0 +1,19 @@
+[h1]SchanaModLockPick[/h1]
+
+This mod adds a lock pick to unlock cars from the Trader mod. The time it takes, damage to the tool, and success rate can be configured by server owners.
+
+[b]Server Owners[/b]
+
+Class name: [code]SchanaModCarLockPick[/code]
+
+Config file (auto generated with defaults): [code]$profiles/SchanaModLockPick/config.json[/code]
+
+Config defaults: [code]Extra/SchanaModLockPick/config.json[/code]
+Sample Type: [code]Extra/types.xml[/code]
+
+You are free to use this mod on your monetized servers. If you repack or use the code in a Derivative Work, you [b]must[/b] include the entire contents of the NOTICE file in a readable place in accordance with the Apache License.
+
+This mod originated from the Carim DayZ project
+The original source is at https://github.com/schana/dayz-mod-lock-pick
+To support this open source project, you can donate at https://paypal.me/cnofafva
+To learn more visit https://discord.gg/kdPnVu4
